@@ -1,1 +1,0 @@
-javascript: window.open('http://downforeveryoneorjustme.com/' + location.href.replace('http://','').replace('https://',''), '_blank');
